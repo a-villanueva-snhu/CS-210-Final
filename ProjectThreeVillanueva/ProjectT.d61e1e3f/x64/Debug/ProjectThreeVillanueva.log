@@ -1,0 +1,3 @@
+﻿  ProjectThreeVillanueva.cpp
+D:\Programming\CS-210\ProjectThreeVillanueva\ProjectThreeVillanueva\ProjectThreeVillanueva.cpp(115,45): warning C4804: '<=': unsafe use of type 'bool' in operation
+  ProjectThreeVillanueva.vcxproj -> D:\Programming\CS-210\ProjectThreeVillanueva\ProjectThreeVillanueva\x64\Debug\ProjectThreeVillanueva.exe
